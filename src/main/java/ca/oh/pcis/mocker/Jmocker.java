@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class JmockerApplication {
+public class Jmocker {
 
 	public static void main(String[] args) {
-		SpringApplication.run(JmockerApplication.class, args);
+		SpringApplication.run(Jmocker.class, args);
 	}
 
 }
